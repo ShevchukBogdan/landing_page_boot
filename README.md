@@ -1,1 +1,1 @@
-# landing_page_boot
+# This is an example of a site built using Bootstrap.
