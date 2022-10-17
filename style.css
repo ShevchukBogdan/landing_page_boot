@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.wrap {
+  width: 1140px;
+  margin: 0 auto; /* вміст по центру */
+  outline: 1px solid inherit;
+}
+
+.container-xxl a {
+  color: blue;
+}
+
+.container-xxl {
+  border-bottom: 0px;
+}
+
+.card-main {
+  border-top: 0px;
+  border-bottom: 0px;
+  margin-top: 20px;
+}
+
+.c-color {
+  background-color: #f7f7f7;
+}
+
+.chapter-title {
+  font-size: 25px;
+}
+
+.card-footer {
+  margin-top: 20px;
+}
